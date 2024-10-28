@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272638289147",
+    "project_id": "safaricare-a0243",
+    "storage_bucket": "safaricare-a0243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272638289147:android:66fa31af5c4d82c030fc5e",
+        "android_client_info": {
+          "package_name": "com.example.safaricare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tNMK7gtM1eRDPoW0aIPPk62HHWsKilE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
